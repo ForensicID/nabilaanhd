@@ -1,0 +1,55 @@
+body{
+	margin:0px;
+}
+
+.latar{
+	width:100%;
+    background-image:url('images/banner-bg.png');
+	margin:-10px;
+	
+}
+.menu{
+    float:right;
+	width:900px;
+	height:50px;
+	background-color:red;
+	margin-top:-320px;
+	  
+}
+.logo{
+	width: 381px;
+	height: 324px;
+	padding: 10px 0px 0px 10px;
+
+}
+.menu ul li{
+	 float:left;
+	 
+} 
+.menu li{
+	padding-left:20px;
+	list-style-type:none;
+	
+}
+a{
+	text-decoration:none;
+	
+}
+.menu a{
+	color:grey;
+	
+}
+.subkiri{
+	width:400px;
+	height:325px;
+	float:left;
+	background-color:red;
+	margin-left:200px;
+	
+}
+.subkanan{
+	width:400px;
+	height:325px;
+    float:right;
+	
+}
